@@ -1,0 +1,10 @@
+/mnt/c/Users/User/drain-demo/anchor-contract/target/debug/deps/solana_frozen_abi-1b3f779f245e6565.d: /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/lib.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/mnt/c/Users/User/drain-demo/anchor-contract/target/debug/deps/libsolana_frozen_abi-1b3f779f245e6565.rlib: /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/lib.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/mnt/c/Users/User/drain-demo/anchor-contract/target/debug/deps/libsolana_frozen_abi-1b3f779f245e6565.rmeta: /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/lib.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/lib.rs:
+/home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/abi_digester.rs:
+/home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/abi_example.rs:
+/home/ser123/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-frozen-abi-1.18.26/src/hash.rs:

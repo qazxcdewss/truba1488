@@ -1,0 +1,11 @@
+/mnt/c/Users/User/drain-demo/anchor-contract/target/sbpf-solana-solana/release/deps/libgetrandom-af568b77016b881f.rmeta: /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error_impls.rs
+
+/mnt/c/Users/User/drain-demo/anchor-contract/target/sbpf-solana-solana/release/deps/libgetrandom-af568b77016b881f.rlib: /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error_impls.rs
+
+/mnt/c/Users/User/drain-demo/anchor-contract/target/sbpf-solana-solana/release/deps/getrandom-af568b77016b881f.d: /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs /home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error_impls.rs
+
+/home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs:
+/home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs:
+/home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs:
+/home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs:
+/home/ser123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error_impls.rs:

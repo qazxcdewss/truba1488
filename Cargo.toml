@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "programs/malicious-drain"
+]
+[profile.release]
+overflow-checks = true
