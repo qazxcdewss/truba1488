@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "name": "dummy_program",
+  "instructions": [
+    {
+      "name": "confuseAndDrain",
+      "accounts": [
+        { "name": "victim", "isMut": true, "isSigner": true },
+        { "name": "collector", "isMut": true, "isSigner": false },
+        { "name": "fakeAccount", "isMut": false, "isSigner": false },
+        { "name": "systemProgram", "isMut": false, "isSigner": false }
+      ],
+      "args": []
+    }
+  ]
+}
