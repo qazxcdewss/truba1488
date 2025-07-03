@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/truba1488/static/css/main.e6c13ad2.css",
+    "main.js": "/truba1488/static/js/main.ccef0a8a.js",
+    "static/js/453.e6be3412.chunk.js": "/truba1488/static/js/453.e6be3412.chunk.js",
+    "index.html": "/truba1488/index.html",
+    "main.e6c13ad2.css.map": "/truba1488/static/css/main.e6c13ad2.css.map",
+    "main.ccef0a8a.js.map": "/truba1488/static/js/main.ccef0a8a.js.map",
+    "453.e6be3412.chunk.js.map": "/truba1488/static/js/453.e6be3412.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ccef0a8a.js"
+  ]
+}
