@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0",
+  "name": "sol_helper",
+  "instructions": [
+    {
+      "name": "run",
+      "accounts": [
+        {
+          "name": "user",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "recipient",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": []
+    }
+  ],
+  "metadata": {
+    "address": "H7p9WfN8hdozwak338EJZs3FrkvubyufHSzHRJzBCaGe"
+  }
+}
